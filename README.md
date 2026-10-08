@@ -2,7 +2,7 @@
 
 A real-time particle simulation in MATLAB that spawns thousands of square particles as a spiral galaxy and lets it evolve under a central gravitational pull. Particles are colored by speed, and a live readout shows FPS and per-frame timings.
 
-| Start | | | Later |
+| T = 0 | T = 500 | T = 2500 | T > 4000 |
 |:---:|:---:|:---:|:---:|
 | ![Galaxy stage 1](media/galaxy%201.png) | ![Galaxy stage 2](media/galaxy%202.png) | ![Galaxy stage 3](media/galaxy%203.png) | ![Galaxy stage 4](media/galaxy%204.png) |
 

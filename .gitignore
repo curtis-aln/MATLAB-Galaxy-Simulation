@@ -20,3 +20,9 @@ Thumbs.db
 # Screen recordings (keep media/*.png tracked)
 *.avi
 *.mp4
+
+build/
+for_redistribution/
+for_redistribution_files_only/
+for_testing/
+*.exe
