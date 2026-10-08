@@ -1,0 +1,15 @@
+# Normalize line endings
+* text=auto
+
+# MATLAB source: treat as text, and use Git's built-in MATLAB diff driver
+*.m  text diff=matlab
+
+# Binary files: never try to diff or merge line-by-line
+*.png  binary
+*.jpg  binary
+*.gif  binary
+*.mp4  binary
+*.mat  binary
+*.fig  binary
+*.mlx  binary
+*.slx  binary

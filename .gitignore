@@ -1,0 +1,22 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+
+# Compiled / generated
+*.mex*
+codegen/
+slprj/
+*.slxc
+
+# Profiler and log output
+*.log
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Screen recordings (keep media/*.png tracked)
+*.avi
+*.mp4
